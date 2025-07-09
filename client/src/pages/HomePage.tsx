@@ -130,7 +130,7 @@ const HomePage = () => {
             </div>
             <h3 className="text-xl font-semibold mb-2">Get Matched</h3>
             <p style={{ color: 'var(--gray-600)' }}>
-              Our AI algorithm analyzes your preferences against our comprehensive neighborhood database.
+              Our platform's algorithm analyzes your preferences against our comprehensive neighborhood database.
             </p>
           </div>
           <div className="text-center">
