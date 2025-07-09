@@ -6,7 +6,7 @@ const HomePage = () => {
     {
       icon: MapPin,
       title: 'Smart Matching',
-      description: 'AI-powered algorithm matches you with neighborhoods based on your lifestyle, budget, and preferences.',
+      description: 'Our platform's algorithm matches you with neighborhoods based on your lifestyle, budget, and preferences.',
     },
     {
       icon: Users,
@@ -41,8 +41,7 @@ const HomePage = () => {
             Find Your Perfect Neighborhood
           </h1>
           <p className="hero-subtitle">
-            Discover neighborhoods that match your lifestyle, budget, and dreams. 
-            Our AI-powered platform analyzes thousands of data points to find your ideal home.
+            Discover neighborhoods that match your lifestyle, budget, and dreams. Our platform helps you find your ideal home by analyzing key data points tailored to your needs.
           </p>
           <div className="flex gap-4 justify-center">
             <Link href="/preferences" className="btn btn-primary btn-large">
